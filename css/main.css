@@ -1,0 +1,91 @@
+*{
+	font-family: Times;
+}
+.navegador{	
+	padding-left: 36%;
+	margin-top: 20px;
+}
+header a{
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	color: black;
+	float: left;
+	margin: 15px;
+	font-weight: bold;
+}
+.fondo{
+	background-image: url(../images/background.jpg);
+	background-size: 1600px;
+	width: cover;
+	height: 450px;
+	background-repeat: no-repeat;
+	margin-right: 0px;
+}
+.logo{
+	position: relative;
+	left: 47%;
+	margin: 40px 0 30px 0;
+}
+.text{
+	text-align: center;
+	font-weight: bold;
+	font-size: 38px;
+	color: white;
+}
+.subt{
+	text-align: center;
+	font-weight: bold;
+	font-size: 26px;
+	color: white;
+}
+.sobre{
+	background-image: url(../images/tile1.png);
+	min-height: 390px;
+}
+.sobre img{
+	width: 250px;
+	height: 250px;
+	padding: 5px;
+	border: 2px solid black;
+	margin-left: 190px;
+	margin-top: 100px;
+}
+h2{
+	color: #9826BD;
+	font-size: 25px;
+	margin: 50px 0px 20px 150px;
+}
+.fav h2{
+	margin-left: 600px;
+}
+.fav p{
+	margin-left: 596px;
+	color: #9826BD;
+	font-size: 18px;
+}
+.gatitos img{
+	width: 100%;
+	margin: 25px;
+	border: 2px solid #9826BD;
+	border-radius: 100%;
+	padding: 5px;
+}
+.contacto{
+	background-image: url(../images/tile2.png);
+	width: cover;
+	height: 300px;
+}
+
+.contacto h2{
+	margin-left: 600px;
+	margin-bottom: 20px;
+}
+.contacto img{
+	float: left;
+	margin-top: 30px;
+	margin-left: 140px;
+}
+.redes{
+	margin-left:260px;
+}
